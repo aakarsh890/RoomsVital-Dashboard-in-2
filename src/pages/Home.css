@@ -1,0 +1,6 @@
+.bgcolor{
+    min-height: 100vh;
+    background: #ECEFF1;
+    background: linear-gradient(158deg, rgb(224, 224, 224) 0%, rrgb(233, 237, 254)100%);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
